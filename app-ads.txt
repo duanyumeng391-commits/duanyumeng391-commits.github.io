@@ -4,6 +4,10 @@ facebook.com, 437887862336720, DIRECT, c3e20eee3f780d68
 #Admob
 google.com, pub-1969096339266802, DIRECT, f08c47fec0942fa0
 
+#Pangle
+pangleglobal.com, 5026430, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
 #Inmobi
 inmobi.com, ec472e76016447eb88abf962b94136f3, DIRECT, 83e75a7ae333ca9d
 blis.com, 33, RESELLER, 61453ae19a4b73f4
